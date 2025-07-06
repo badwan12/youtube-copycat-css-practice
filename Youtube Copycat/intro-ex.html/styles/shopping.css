@@ -1,0 +1,28 @@
+p {
+  font-family: arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}    
+
+
+.title {
+  font-size: 40px;
+}
+
+.context {
+  font-size: 20px;
+  margin-top: 16px;
+}
+
+.link {
+  margin-top: 16px;
+  color: blue;
+  font-size: 17px;
+
+}
+
+.link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

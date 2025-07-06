@@ -1,0 +1,51 @@
+.main-div {
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+
+.the-img {
+height: 300px;
+}
+
+.discount{
+  position: absolute;
+  top: 20px;
+  right: 10px;
+
+  color: white;
+  background-color: black;
+
+  font-family: arial;
+  font-size: 12px;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.addarea {
+  position: absolute;
+
+  bottom: 10px;
+  right: 10px;
+  left: 10px;
+  top: 65%;
+  background-color: rgba(233, 226, 226, 0.815);
+}
+
+.addtocart{
+margin-top: 26px;
+margin-left: 96px;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+
+  font-family: arial;
+
+  border-color: black;
+  border-width: 1px;
+}

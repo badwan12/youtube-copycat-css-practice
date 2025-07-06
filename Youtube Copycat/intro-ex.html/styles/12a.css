@@ -1,0 +1,53 @@
+.flex-12a {
+  display: flex;
+}
+
+.flex-200 {
+  width: 200px;
+  background-color: lightblue;
+}
+
+.flex-75 {
+  background-color: lightpink;
+  width: 75px;
+}
+
+
+.flex-12b {
+  display: flex;
+  flex-direction: row;
+}
+
+.item1{
+  width: 50px;
+  background-color: lightblue;
+}
+
+.item2{
+  flex: 1;
+  background-color: lightpink;
+}
+
+.item3{
+  width: 75px;
+  background-color: lightblue;
+}
+
+.flex-12c {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item {
+  background-color: lightpink;
+}
+
+.flex-12d {
+  display: flex;
+  justify-content: space-between;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+  height: 50px;
+}
