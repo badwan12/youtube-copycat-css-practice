@@ -1,0 +1,60 @@
+.sidebar {
+  position: fixed;
+  background-color: green;
+  color: white;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.a14 {
+  position: fixed;
+  color: white;
+  background-color: black;
+  bottom: 20PX;
+  right: 20px;
+}
+
+.cover {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.modal {
+  background-color: white;
+  width: 300px;
+
+  border-radius: 8px;
+  padding-top: 18px;
+  padding-left: 16px;
+}
+
+p {
+  margin:0;
+}
+
+.main-text {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: arial;
+}
+
+.context {
+  font-family: arial;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.close-button {
+  font-weight: bold;
+  margin-bottom: 16px;
+}

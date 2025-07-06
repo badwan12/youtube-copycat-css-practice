@@ -1,0 +1,54 @@
+input {
+  border-radius: 3px;
+  border:1px;
+  border-style: solid;
+}
+
+
+
+
+.first-name,
+.second-name{
+width: 148px;
+font-size: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 40px;
+border-color: rgb(143, 140, 140);
+border-radius: 10px;
+}
+
+.email {
+  display: block;
+  width: 148px;
+  font-size: 20px;
+
+  border-radius: 10px;
+  border-color: rgb(143, 140, 140);
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 244px;
+  margin-top: 10px;
+}
+
+button {
+font-size: 25px;
+color: white;
+background-color: rgb(27, 117, 219);
+font-family: Arial;
+font-weight: bold;
+border-style: none;
+border-radius: 10px;
+margin-top: 10px;
+
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 155px;
+padding-right: 155px;
+
+
+
+}

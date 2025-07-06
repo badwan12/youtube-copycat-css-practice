@@ -1,0 +1,16 @@
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.context {
+  color: rgb(223, 33, 33);
+  font-style: italic;
+  font-size: 20px;
+  margin-top: 4px;
+}

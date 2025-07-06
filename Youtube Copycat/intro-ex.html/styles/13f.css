@@ -1,0 +1,67 @@
+.flexbox1,.flexbox2, .flexbox4, .flexbox5{
+  display: flex;
+  flex-direction: row;
+}
+
+.flexbox3 {
+  margin-left: 16px;
+}
+
+p {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 17px;
+  margin: 0;
+}
+
+
+.acount-icon {
+  height: 55px;
+  border-radius: 30px;
+}
+
+.acount-name {
+  font-weight: 700;
+
+}
+
+.acount-user {
+  color: rgb(96, 96, 96);
+  margin-left: 4px;
+}
+
+.context {
+  width: 400px;
+  font-weight: 600;
+  line-height: 22px;
+  margin-top: 4px;
+}
+
+.flexbox5 {
+  border-color: rgb(189, 182, 182);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  width: 380px;
+  margin-top: 16px;
+}
+
+.column {
+  background-color: rgb(226, 226, 226);
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.inner-text {
+  padding-top: 20px;
+  padding-left: 16px;
+}
+
+.wep-name {
+  color: rgb(96, 96, 96);
+}
+
+.wep-context {
+  width: 250px;
+}
